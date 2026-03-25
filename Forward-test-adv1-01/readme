@@ -1,0 +1,15 @@
+===== FORWARD TEST RESULTS =====
+Final Balance: 7444972.17
+Avg Monthly PnL: 36806.79
+Worst Drawdown: -291795.02
+Avg RR: 0.32
+✅ Forward test complete.
+
+pivot=11,
+        sl_mult=1.0,
+        tp_mult=3.0,
+        tf_filter="none",
+        start_balance=10000,
+        risk_pct=0.005,     # 0.5%
+        spread=0.2,
+        slippage=0.1

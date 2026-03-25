@@ -1,0 +1,28 @@
+===== HOUR PERFORMANCE =====
+           pnl_sum    pnl_avg  trades    avg_rr    winrate
+hour                                                      
+7     46411.054213  36.343817    1277  0.305022  53.484730
+8     39758.716750  24.942733    1594  0.393066  55.646173
+9     21646.485793  25.986177     833  0.347168  53.781513
+10     8763.642275  27.216280     322  0.291425  56.521739
+11     4179.287155  32.650681     128  0.291121  54.687500
+12      -24.701665  -8.233888       3 -0.096035   0.000000
+
+Best Hour: 7
+Worst Hour: 12
+
+===== FORWARD TEST RESULTS =====
+Final Balance: 120834.48
+Avg Monthly PnL: 597.70
+Avg RR: 0.35
+Winrate: 54.61%
+
+--- Risk Metrics ---
+Worst Drawdown ($): -5460.90
+Max Losing Streak: 11 trades
+✅ Forward test complete.
+(venv) TANGs-MacBook-Pro-2:backtest_gold-v4-monte tangchhannon$ 
+
+pivot 13
+SL 1
+TP 2

@@ -1,0 +1,23 @@
+(venv) TANGs-MacBook-Pro-2:backtest_gold-v4-monte tangchhannon$ python3 backtest_gold_1min_v2.3-adv2.py --datadir gold-data-25/ --outdir 2.3Adv-02
+Starting MONTE CARLO TEST...
+Loading data...
+   -> Reading DAT_MT_XAUUSD_M1_202501.csv
+   -> Reading DAT_MT_XAUUSD_M1_202502.csv
+   -> Reading DAT_MT_XAUUSD_M1_202503.csv
+   -> Reading DAT_MT_XAUUSD_M1_202504.csv
+   -> Reading DAT_MT_XAUUSD_M1_202505.csv
+   -> Reading DAT_MT_XAUUSD_M1_202506.csv
+   -> Reading DAT_MT_XAUUSD_M1_202507.csv
+   -> Reading DAT_MT_XAUUSD_M1_202508.csv
+   -> Reading DAT_MT_XAUUSD_M1_202509.csv
+   -> Reading DAT_MT_XAUUSD_M1_202510.csv
+   -> Reading DAT_MT_XAUUSD_M1_202511.csv
+Successfully combined 11 files into a single DataFrame.
+Backtest summary: {'trades': 221, 'wins': 76, 'losses': 114, 'closed_no_hit': 31, 'win_rate_pct': 40.0, 'net_pnl_dollars': 12980.957829825475, 'days_triggered': 221, 'flash_trades': 0}
+
+Monte Carlo Results:
+Mean final R: 129.81
+Min final R: 129.81
+Max final R: 129.81
+Probability of profit: 100.00%
+Monte Carlo completed. Check results manually.

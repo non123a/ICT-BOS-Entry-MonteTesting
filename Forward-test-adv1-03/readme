@@ -1,0 +1,19 @@
+===== FORWARD TEST RESULTS =====
+Final Balance: 119128.45
+Avg Monthly PnL: 589.25
+Avg RR: 0.34
+
+--- Risk Metrics ---
+Worst Drawdown ($): -5318.57
+Worst Drawdown (%): -5.72%
+Worst Drawdown (R): -69.49R
+Max Losing Streak: 11 trades
+✅ Forward test complete.
+(venv) TANGs-MacBook-Pro-2:backtest_gold-v4-monte tangchhannon$ 
+
+
+
+pivot - 13
+SL - 1
+TP - 2
+
